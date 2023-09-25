@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Iphone 13",
+        "description": "Plus",
+        "price": 200,
+        "thumbnail": "Sin imagen",
+        "code": "abc123",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Ipad",
+        "description": "5 Pro",
+        "price": 2500,
+        "thumbnail": "Sin imagen",
+        "code": "dfg456",
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "title": "Laptop",
+        "description": "HP i5",
+        "price": 900,
+        "thumbnail": "Sin imagen",
+        "code": "789tgh",
+        "stock": 85
+    },
+    {
+        "id": 4,
+        "title": "Smartwatch",
+        "description": "Xiaomi MI",
+        "price": 2000,
+        "thumbnail": "Sin imagen",
+        "code": "att523",
+        "stock": 780
+    },
+    {
+        "id": 5,
+        "title": "Smart TV",
+        "description": "Samsung 4K",
+        "price": 500,
+        "thumbnail": "Sin imagen",
+        "code": "opl852",
+        "stock": 56
+    },
+    {
+        "id": 6,
+        "title": "Auriculares JBL",
+        "description": "507J",
+        "price": 150,
+        "thumbnail": "Sin imagen",
+        "code": "jbl233",
+        "stock": 570
+    },
+    {
+        "id": 7,
+        "title": "PS5",
+        "description": "Slim",
+        "price": 900,
+        "thumbnail": "Sin imagen",
+        "code": "ps5777",
+        "stock": 906
+    },
+    {
+        "id": 8,
+        "title": "Macbook",
+        "description": "Pro M2",
+        "price": 2500,
+        "thumbnail": "Sin imagen",
+        "code": "mcb260",
+        "stock": 100
+    },
+    {
+        "id": 9,
+        "title": "Apple watch",
+        "description": "7 FIT",
+        "price": 500,
+        "thumbnail": "Sin imagen",
+        "code": "fit723",
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "title": "Teclado inalambrico",
+        "description": "HP",
+        "price": 50,
+        "thumbnail": "Sin imagen",
+        "code": "thp578",
+        "stock": 300
+    }
+]
